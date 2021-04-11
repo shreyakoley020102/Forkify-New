@@ -5,7 +5,7 @@ Run the following commands in your command line:
 
 npm install
 
-npm run start
+npm start
 ```
 
 also there's another way
